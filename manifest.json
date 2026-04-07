@@ -1,0 +1,20 @@
+{
+  "name": "doubleAxisBar",
+  "organization": "FD",
+  "description": "Bar chart with double x-axis",
+  "logoUrl": "",
+  "organizationUrl": "",
+  "supportUrl": "",
+  "privacyPolicyUrl": "",
+  "termsOfServiceUrl": "",
+  "components": [{
+    "id": "doubleAxisBar",
+    "name": "Double X-Axis Bar Chart",
+    "description": "Vertical bar chart with two-level x-axis",
+    "iconUrl": "",
+    "resource": {
+      "js": "https://EF-DE.github.io/looker-double-axis-viz/index.js",
+      "config": "https://EF-DE.github.io/looker-double-axis-viz/index.json"
+    }
+  }]
+}
