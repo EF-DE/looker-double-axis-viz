@@ -2,16 +2,16 @@
   "name": "doubleAxisBar",
   "organization": "FD",
   "description": "Bar chart with double x-axis",
-  "logoUrl": "",
-  "organizationUrl": "",
-  "supportUrl": "",
-  "privacyPolicyUrl": "",
-  "termsOfServiceUrl": "",
+  "logoUrl": "https://EF-DE.github.io/looker-double-axis-viz/index.js",
+  "organizationUrl": "https://EF-DE.github.io/looker-double-axis-viz/",
+  "supportUrl": "https://EF-DE.github.io/looker-double-axis-viz/",
+  "privacyPolicyUrl": "https://EF-DE.github.io/looker-double-axis-viz/",
+  "termsOfServiceUrl": "https://EF-DE.github.io/looker-double-axis-viz/",
   "components": [{
     "id": "doubleAxisBar",
     "name": "Double X-Axis Bar Chart",
     "description": "Vertical bar chart with two-level x-axis",
-    "iconUrl": "",
+    "iconUrl": "https://EF-DE.github.io/looker-double-axis-viz/index.js",
     "resource": {
       "js": "https://EF-DE.github.io/looker-double-axis-viz/index.js",
       "config": "https://EF-DE.github.io/looker-double-axis-viz/index.json"
